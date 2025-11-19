@@ -1,3 +1,26 @@
+## mocap4r2_msg (humble) - 0.0.6-1
+
+The packages in the `mocap4r2_msg` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble mocap4r2_msg` on `Wed, 19 Nov 2025 06:14:44 -0000`
+
+The `mocap4r2_msgs` package was released.
+
+Version of package(s) in repository `mocap4r2_msg`:
+
+- upstream repository: https://github.com/MOCAP4ROS2-Project/mocap4r2_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.0.5-1`
+- new version: `0.0.6-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## mocap4r2_msgs (humble) - 0.0.5-1
 
 The packages in the `mocap4r2_msgs` repository were released into the `humble` distro by running `/usr/local/bin/bloom-release --rosdistro humble --track humble mocap4r2_msgs --edit` on `Sun, 21 Jan 2024 07:33:35 -0000`
