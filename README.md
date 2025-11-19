@@ -1,3 +1,26 @@
+## mocap4r2_msgs (kilted) - 0.2.0-1
+
+The packages in the `mocap4r2_msgs` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted mocap4r2_msgs` on `Wed, 19 Nov 2025 06:26:17 -0000`
+
+The `mocap4r2_msgs` package was released.
+
+Version of package(s) in repository `mocap4r2_msgs`:
+
+- upstream repository: https://github.com/MOCAP4ROS2-Project/mocap4r2_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.1.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## mocap4r2_msgs (jazzy) - 0.1.0-1
 
 The packages in the `mocap4r2_msgs` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --track jazzy mocap4r2_msgs` on `Wed, 19 Nov 2025 06:22:49 -0000`
